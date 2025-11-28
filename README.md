@@ -1,6 +1,6 @@
 # Open-With-VSCode
 
-<img width="450" height="429" alt="image" src="https://github.com/user-attachments/assets/eeb0bf7e-a5d2-4b75-bd3e-4ceb16eed770" />
+<img width="431" height="185" alt="image" src="https://github.com/user-attachments/assets/fc1f7d8d-a785-4bad-9d2d-0aeaf66da82d" />
 
 ## Install
 
